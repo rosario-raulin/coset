@@ -1,3 +1,5 @@
+coset
+
 coset is a simple library for cosets in Dylan. It implements basic arithmetic
 operations like +, -, * and / (which is defined as the multiplation with the
-inverted coset.
+inverted coset).
